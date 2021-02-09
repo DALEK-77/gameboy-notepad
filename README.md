@@ -4,6 +4,8 @@ A notepad for the Nintendo Gameboy. It's that simple.
 You will need the GBDK (https://github.com/Zal0/gbdk-2020/). Download the necessary binaries for your platform.
 
 Here's a directory tree for the gbdk download:
+
+```
 gbdk
 ├── bin
 ├── examples
@@ -12,6 +14,7 @@ gbdk
 ├── ChangeLog
 ├── README
 └── main.c
+```
 
 You'll need to download this repo from here: https://github.com/DALEK-77/gameboy-notepad/archive/main.zip
 
