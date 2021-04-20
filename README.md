@@ -12,8 +12,7 @@ gbdk
 ├── include
 ├── lib
 ├── ChangeLog
-├── README
-└── main.c
+└── README
 ```
 
 You'll need to download this repo from here: https://github.com/DALEK-77/gameboy-notepad/archive/main.zip
