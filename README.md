@@ -1,3 +1,4 @@
+## MOVED TO https://github.com/BomberFish/gameboy-notepad
 # gameboy-notepad
 A notepad for the Nintendo Gameboy. It's that simple.
 
